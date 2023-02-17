@@ -4,7 +4,14 @@
 - Forecasting of time taken for completing 100% total vaccinations of particular region over the time period.
 - By this, vaccine manufacturing companies get to know the prior requirements of vaccine which helps to produce 
   the vaccines in large scale and complete the vaccination drive with in calculated time.
-  
+   
+## Contributers
+[Jaswanth Reddy](https://github.com/jaswanth2003)
+[Chirag Biradar](https://github.com/chiragbiradar)
+[B Ajay Kushal](https://github.com/ajaykushal4)
+[Bharath Sai](https://github.com/chiragbiradar)
+
+
 ## DATASETS Source: [Ourworldindata.org](ourworldindata.org)
 
 ## Questions Analysed:-
